@@ -1,3 +1,3 @@
 # StichHub
 
-## Tailor Made Perfect !!
+## Stitch your way !!
