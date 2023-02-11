@@ -251,4 +251,5 @@
 - **25 Feb - betaa**
 - **26 Feb Documentation**
 
-**Pitch Deck -** [Pitch Deck](https://www.canva.com/design/DAFXEeGDTf8/WamnrOFrE7t8zwBY1EQhEw/view?utm_content=DAFXEeGDTf8&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent)
+# **Pitch Deck -** 
+### [Pitch Deck](https://www.canva.com/design/DAFXEeGDTf8/WamnrOFrE7t8zwBY1EQhEw/view?utm_content=DAFXEeGDTf8&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent)
