@@ -6,12 +6,12 @@
 We're a team of enthusiasts , hoping to bring the tailor community online and introduce them to the benifits of online business.
 
 # Team Member:
-  - Siddhant Patil - [@siddhant-patil0203](https://github.com/Siddhant-Patil0203)
-  - Harshal Lade
-  - Vishal Kesharwani
-  - Saurabh Yadav
-  - Naresh Chandanbatve
+  - [Siddhant Patil] (Project Lead)(https://github.com/Siddhant-Patil0203)
+  - - [Naresh Chandanbatve](https://github.com/Naresh-chandanbatve)
+  - [Harshal Lade](https://github.com/LadeHarshal)
+  - [Vishal Kesharwani](https://github.com/vishal10kesharwani)
+  - [Saurabh Yadav](https://github.com/Saurabb-coder)
+  
 
-# Contributing :
 
 
