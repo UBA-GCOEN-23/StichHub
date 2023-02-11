@@ -1,27 +1,33 @@
 # Software Requirement Specification
 
 ## Tech Stack: 
+[![technical_stack](https://skillicons.dev/icons?i=figma,react,tailwind,expressjs,nodejs,mongodb&theme=light)](https://skillicons.dev)
 - UI/UX & Prototyping - Figma		
 - Frontend: React + TailwindCSS / Material UI
 - Backend - Nodejs + Expressjs + Mongoose
 - Database - MongoDB
 
 ## Hosting & Deployment : 
+[![technical_stack](https://skillicons.dev/icons?i=vercel,firebase,heroku&theme=light)](https://skillicons.dev)
+
 - Site Hosting: Vercel / Firebase / Hostinger
 - Server Hosting: Heroku
 
 ## Project Management:
+[![technical_stack](https://skillicons.dev/icons?i=git,github&theme=light)](https://skillicons.dev)
 - Git + Github
 
 ## DevOps : 
+[![technical_stack](https://skillicons.dev/icons?i=docker,jenkins,kubernetes,githubaction&theme=light)](https://skillicons.dev)
 - Docker, Jenkins, Kubernetes, GitHub Action.
 
 ## Addon : 
+[![technical_stack](https://skillicons.dev/icons?i=threejs,reactvex,blender&theme=light)](https://skillicons.dev)
 - Threejs
 - React Three fiber (3-d Product configuration)
 - Blender
-- Marvelous Designer  Marvelous Designer
-- Google AR Core Google AR Core
+- Marvelous Designer
+- Google AR Core
 
 ## Addon : 
 - Spline
