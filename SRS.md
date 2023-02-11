@@ -22,11 +22,11 @@
 - Docker, Jenkins, Kubernetes, GitHub Action.
 
 ## Addon : 
-[![technical_stack](https://skillicons.dev/icons?i=threejs,reactvex,blender&theme=light)](https://skillicons.dev)
+[![technical_stack](https://skillicons.dev/icons?i=threejs,react,blender&theme=light)](https://skillicons.dev)
 - Threejs
 - React Three fiber (3-d Product configuration)
 - Blender
-- Marvelous Designer
+- [Marvelous Designer](https://marvelousdesigner.com/)
 - Google AR Core
 
 ## Addon : 
@@ -34,7 +34,8 @@
 - GSAP
 
 ## Additional API : 
-- Google AR Core
+- [Google AR Core](https://developers.google.com/ar)
+
 
 
 ## Tailor side:
