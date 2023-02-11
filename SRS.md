@@ -1,4 +1,6 @@
-# Tech Stack: 
+# Software Requirement Specification
+
+## Tech Stack: 
 - UI/UX & Prototyping - Figma		
 - Frontend: React + TailwindCSS / Material UI
 - Backend - Nodejs + Expressjs + Mongoose
@@ -29,7 +31,7 @@
 - Google AR Core
 
 
-# Tailor side:
+## Tailor side:
 - Ongoing Project  
 - 3D 
 - 2D
@@ -54,7 +56,7 @@
 
  
 
-Customer Side : 
+## Customer Side : 
 Stitching
 Home
 Category
