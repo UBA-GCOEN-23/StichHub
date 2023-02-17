@@ -24,8 +24,9 @@ We at Stichhub aim at reducing this hassle and making tailoring a convinient exp
 >  We provide an online facility that enables users to accurately provide the measurements for the clothes
 > - AR Tech-<br>
 >  Ever wondered if an ordered piece will turn out to be exactly same as it looks , with our tech you come one step closer to that. It enables you to kmnow just hoe your piece is going to turn out  
+<!-- 
 ## Previous Builds
-link here-
+link here- -->
 
 ## Feedback
  - Ask a [question]()
